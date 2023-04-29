@@ -13,9 +13,9 @@ The remaining unlisted files can however be downloaded by accessing the menu
 screenshots and then writing or copy/pasting the name into the prompt.
 
 
-[My Themes](media/https://github.com/LAbyOne/Clover-Suite-Builder/blob/main/media/Themes.md)
+[My Clover Themes](media/https://github.com/LAbyOne/Clover-Suite-Builder/blob/main/media/Themes.md)
 
-[KCloverHackyColor Themes Collection](CloverHackyColor Themes.md)
+[CloverHackyColor Themes Collection](media/CloverHackyColor%20Themes.md)
 
 
 ##
