@@ -1,4 +1,4 @@
-<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="image/logo.png" align="right">
+<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="media/logo.png" align="right">
 
 # Clover Themes Downloader
 
