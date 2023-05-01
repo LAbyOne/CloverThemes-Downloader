@@ -143,6 +143,17 @@
      <div class="w3-padding-14 w3-center">
     </div>
  </div>
+</footer> 
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
+  <h2>Horrible_Gold_II</h2>
+  <div>
+   <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
+  <div>
+      <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold_II/screenshot.png" class="w3-image w3-left" width="500">
+      <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Horrible_Gold_II/screenshot2.png" class="w3-image w3-right" width="500">
+     <div class="w3-padding-14 w3-center">
+    </div>
+ </div>
 </footer>  
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
   <h2>Marbles</h2>
@@ -310,4 +321,4 @@
 <!--     </div> -->
 
 #
-[Back](https://github.com/LAbyOne/CloverThemes) 
+[Back](https://github.com/LAbyOne/CloverThemes-Downloader) 
