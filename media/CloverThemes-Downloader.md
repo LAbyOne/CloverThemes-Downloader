@@ -11,7 +11,7 @@ The remaining unlisted files can however be downloaded by accessing the menu scr
 
 #
 
-<img src="media/Downloader.png" width="418" height="272">
+<img src="Downloader.png" width="418" height="272">
 
  For any repo you got to get also screenshots of listed themes available
  
@@ -23,11 +23,11 @@ to  download
 
 #
 
-<img src="images/Themes3.png" width="418" height="272">
+<img src="Themes3.png" width="418" height="272">
 
 #
 
-<img src="images/Themes4.png" width="418" height="272">
+<img src="Themes4.png" width="418" height="272">
 
 eventually just by pressing 'A' key  will download the entire repo. 
 
