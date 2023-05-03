@@ -33,7 +33,9 @@ eventually just by pressing 'A' key  will download the entire repo.
 
 #
 
-[CloverHackyColor Themes Collection](CloverHackyColor%20Themes.md)
+[CloverHackyColor Themes Collection](Themes3.md)
+
+[Badruzeus Themes](Themes2.md)
 
 [My CloverThemes](Themes.md)
 
