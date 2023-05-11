@@ -13,11 +13,14 @@ The remaining unlisted files can however be downloaded by accessing the menu scr
 
 <img src="Downloader.png" width="418" height="272">
 
- - For any repo you got to get also screenshots of listed themes available 
- to  download
+ - Install into EFI, let you install personalized themes you created or modified by yourself
+ - Once done you can safely unmount your EFI partition
 
 #
 
+ - For any repo you got to get also screenshots of listed themes available 
+ to  download
+ 
 <img src="CloverHackyColor.png" width="418" height="272">
 
 - When selecting "Install" the Download prompt will let you write, or copy/paste, your desired theme
