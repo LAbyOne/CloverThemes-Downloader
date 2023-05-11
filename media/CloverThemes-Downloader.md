@@ -13,7 +13,11 @@ The remaining unlisted files can however be downloaded by accessing the menu scr
 
 <img src="Downloader.png" width="418" height="272">
 
- - Install into EFI, let you install personalized themes you created or modified by yourself
+ - Install into EFI menu,
+ - since all themes are automatically installed after being Downloaded
+ - is meant to let you install all other themes, personalized, created or modified by yourself
+ - 
+ - Unmount EFI menu.
  - Once done you can safely unmount your EFI partition
 
 #
